@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello World, GitHub is Cool!
+__Life is like a box of Chocolates!__
 Use the left arrow to go back!
